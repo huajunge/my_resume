@@ -65,7 +65,7 @@ disqus: # fromendworld
 gitalk:
   clientID: 2699469732e301c1fa13
   clientSecret: 0add0bb661d80da6bc447e725a1bc94f36daaacc
-  repo: huajunge.github.io
+  repo: my_resume
   owner: huajunge
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
