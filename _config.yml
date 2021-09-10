@@ -65,7 +65,7 @@ disqus: # fromendworld
 gitalk:
   clientID: 2699469732e301c1fa13
   clientSecret: 0add0bb661d80da6bc447e725a1bc94f36daaacc
-  repo: huajunge.github.io
+  repo: my_resume
   owner: huajunge
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
@@ -73,7 +73,7 @@ gitalk:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://huajunge.github.io
+url: https://huajunge.github.io/my_resume
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
